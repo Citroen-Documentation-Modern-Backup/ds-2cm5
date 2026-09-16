@@ -1,0 +1,23 @@
+{
+ "ref": "040206183001A",
+ "refDisplay": "0402 06 183001A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE W4 OU DEPOLLUTION TECHNIQUE VEHICULE L4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZT&B0F=B0F6P",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6P",
+   "fctId": "FCT0011"
+  }
+ ]
+}

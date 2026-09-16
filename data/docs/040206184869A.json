@@ -1,0 +1,23 @@
+{
+ "ref": "040206184869A",
+ "refDisplay": "0402 06 184869A",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "LIAISON AU SOL 1000KG DEPUIS DAM 12810UZ",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBW",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBW",
+   "fctId": "FCT0011"
+  }
+ ]
+}

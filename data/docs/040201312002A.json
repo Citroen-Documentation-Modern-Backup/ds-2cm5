@@ -1,0 +1,23 @@
+{
+ "ref": "040201312002A",
+ "refDisplay": "0402 01 312002A",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM MA DEPUIS OPR 12110",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0016"
+  }
+ ]
+}

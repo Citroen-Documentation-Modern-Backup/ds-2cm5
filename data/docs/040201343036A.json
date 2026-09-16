@@ -1,0 +1,33 @@
+{
+ "ref": "040201343036A",
+ "refDisplay": "0402 01 343036A",
+ "title": "DIFFERENTIEL BVM",
+ "nature": "",
+ "applicability": "CP 17 X 81 ET BVM BE4 N ET DIFFERENTIEL 84",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F6S",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F6S",
+   "fctId": "FCT0017"
+  }
+ ]
+}

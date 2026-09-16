@@ -1,0 +1,23 @@
+{
+ "ref": "040206642603A",
+ "refDisplay": "0402 06 642603A",
+ "title": "AEROTHERME - RACCORDS EAU",
+ "nature": "",
+ "applicability": "BICARBURATION GNV DEPUIS OPR 09978 OU BICARBURATION GPL DEPUIS OPR 09978",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0347"
+  }
+ ]
+}

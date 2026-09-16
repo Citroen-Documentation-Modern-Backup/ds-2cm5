@@ -1,0 +1,38 @@
+{
+ "ref": "040205501165B",
+ "refDisplay": "0402 05 501165B",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE ET DEPOLLUTION TECHNIQUE VEHICULE L4 DEPUIS OPR 10920",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F7H",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F7H",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F7H",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F7H",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F7H",
+   "fctId": "FCT0308"
+  }
+ ]
+}

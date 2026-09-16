@@ -1,0 +1,25 @@
+{
+ "ref": "B3EG0153P0",
+ "refDisplay": "B3EG0153P0",
+ "title": "Dépose - repose : mécanisme de direction (assistée, électrique, mécanique)",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0339"
+  }
+ ]
+}

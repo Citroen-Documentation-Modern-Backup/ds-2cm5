@@ -1,0 +1,18 @@
+{
+ "ref": "040201241099A",
+ "refDisplay": "0402 01 241099A",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "ref": "D1CI04P0",
+ "refDisplay": "D1CI04P0",
+ "title": "Remise à niveau : électrolyte batterie nickel-cadmium",
+ "nature": "Vidange - remplissage - purge",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0766"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0766"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0766"
+  }
+ ]
+}

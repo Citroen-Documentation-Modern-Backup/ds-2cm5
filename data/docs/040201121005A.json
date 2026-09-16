@@ -1,0 +1,23 @@
+{
+ "ref": "040201121005A",
+ "refDisplay": "0402 01 121005A",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0005"
+  }
+ ]
+}

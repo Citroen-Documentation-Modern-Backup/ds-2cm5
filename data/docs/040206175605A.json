@@ -1,0 +1,23 @@
+{
+ "ref": "040206175605A",
+ "refDisplay": "0402 06 175605A",
+ "title": "BOITIER SONDE TEMPERATURE ECHAPP",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE US83 OU DEPOLLUTION TECHNIQUE VEHICULE W4 OU DEPOLLUTION TECHNIQUE VEHICULE L4 OU DEPOL TECHNIQUE VEHICULE INCITATION FISCALE EURO 4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0012"
+  }
+ ]
+}

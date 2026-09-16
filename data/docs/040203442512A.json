@@ -1,0 +1,28 @@
+{
+ "ref": "040203442512A",
+ "refDisplay": "0402 03 442512A",
+ "title": "BIELLETTES DETAIL CREMAILLERE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE JUSQU’A OPR 10016",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0037"
+  }
+ ]
+}

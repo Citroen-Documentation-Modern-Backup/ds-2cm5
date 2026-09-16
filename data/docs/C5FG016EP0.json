@@ -1,0 +1,25 @@
+{
+ "ref": "C5FG016EP0",
+ "refDisplay": "C5FG016EP0",
+ "title": "Dépose - repose : bouton d’arrêt d’urgence",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0212"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0347"
+  }
+ ]
+}

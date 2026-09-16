@@ -1,0 +1,28 @@
+{
+ "ref": "040204314116B",
+ "refDisplay": "0402 04 314116B",
+ "title": "PEDALE DE FREIN PEDALIER CONTACTEUR STOP",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE DEPUIS OPR 09891 JUSQU’A OPR 10737",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0047"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0047"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0047"
+  }
+ ]
+}

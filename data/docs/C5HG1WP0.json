@@ -1,0 +1,60 @@
+{
+ "ref": "C5HG1WP0",
+ "refDisplay": "C5HG1WP0",
+ "title": "Dépose - repose : pompe à eau ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0348"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0349"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0348"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0349"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0348"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0349"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "040202533010A",
+ "refDisplay": "0402 02 533010A",
+ "title": "DEMARREUR FIXATIONS",
+ "nature": "",
+ "applicability": " DEPUIS DAM 09457FL OU  DEPUIS DAM 09457FV OU  DEPUIS DAM 11773UZ",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0302"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0302"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "ref": "B1BG019KP0",
+ "refDisplay": "B1BG019KP0",
+ "title": "Dépose - repose : bagues d’étanchéité moteur  (WMI 935, 936, 8BC, 8AD)",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0FBW",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0FBW",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0FBW",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0FBW",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBW",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBW",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBW",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBW",
+   "fctId": "FCT0007"
+  }
+ ]
+}

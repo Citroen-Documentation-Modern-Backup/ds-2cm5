@@ -1,0 +1,28 @@
+{
+ "ref": "040201343030A",
+ "refDisplay": "0402 01 343030A",
+ "title": "DIFFERENTIEL BVM",
+ "nature": "",
+ "applicability": "CP 19 X 70 ET BVM BE4 L ET DIFFERENTIEL 84",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0017"
+  }
+ ]
+}

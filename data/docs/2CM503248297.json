@@ -1,0 +1,94 @@
+{
+ "ref": "2CM503248297",
+ "refDisplay": "2CM5 0 324 8297",
+ "title": "AILE G,PASS ROUE,PANNEAU,PLANCHER",
+ "nature": "",
+ "applicability": "(J08B) BERLINGO II VU FOURGON COURT ’500’ MOTEUR ELECTRIQUE SA18 2 PORTES AR BATTANTES VITREES SANS VITRE LATERALE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6P",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0FS1",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F3U",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F3N",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F7H",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FS1",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3U",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3N",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F7H",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0118"
+  }
+ ]
+}

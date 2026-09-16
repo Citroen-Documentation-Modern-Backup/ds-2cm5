@@ -1,0 +1,23 @@
+{
+ "ref": "040204455510A",
+ "refDisplay": "0402 04 455510A",
+ "title": "FREIN A MAIN DETAILS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0351"
+  }
+ ]
+}

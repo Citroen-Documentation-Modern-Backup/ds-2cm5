@@ -1,0 +1,55 @@
+{
+ "ref": "B1HK14P0",
+ "refDisplay": "B1HK14P0",
+ "title": "Nettoyage : raccords sur rampe d’injection commune haute pression carburant",
+ "nature": "Précautions à prendre",
+ "applicability": "SYSTEME INJECTION SIEMENS DEPUIS OPR 9129",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0010"
+  }
+ ]
+}

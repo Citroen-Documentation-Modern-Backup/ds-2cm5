@@ -1,0 +1,38 @@
+{
+ "ref": "040202140097A",
+ "refDisplay": "0402 02 140097A",
+ "title": "RONDELLE DE CALAGE D’INJECTEURS",
+ "nature": "",
+ "applicability": "DEPOL CEE 2000 (MOTEUR)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F7H",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F7H",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F7H",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F7H",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F7H",
+   "fctId": "FCT0010"
+  }
+ ]
+}

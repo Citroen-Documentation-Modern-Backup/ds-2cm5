@@ -1,0 +1,20 @@
+{
+ "ref": "B2DB0104P0",
+ "refDisplay": "B2DB0104P0",
+ "title": "Couples de serrage : accouplement moteur sur réducteur",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0017"
+  }
+ ]
+}

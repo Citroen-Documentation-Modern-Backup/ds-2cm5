@@ -1,0 +1,23 @@
+{
+ "ref": "040202532072B",
+ "refDisplay": "0402 02 532072B",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBX",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBX",
+   "fctId": "FCT0303"
+  }
+ ]
+}

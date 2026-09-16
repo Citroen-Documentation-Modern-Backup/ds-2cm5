@@ -1,0 +1,23 @@
+{
+ "ref": "040206184801A",
+ "refDisplay": "0402 06 184801A",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L4 OU DEPOLLUTION TECHNIQUE VEHICULE W4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZT&B0F=B0F6P",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6P",
+   "fctId": "FCT0011"
+  }
+ ]
+}

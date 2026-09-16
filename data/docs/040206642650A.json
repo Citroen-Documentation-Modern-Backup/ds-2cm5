@@ -1,0 +1,18 @@
+{
+ "ref": "040206642650A",
+ "refDisplay": "0402 06 642650A",
+ "title": "AEROTHERME - RACCORDS EAU",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0347"
+  }
+ ]
+}

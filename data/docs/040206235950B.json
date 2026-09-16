@@ -1,0 +1,38 @@
+{
+ "ref": "040206235950B",
+ "refDisplay": "0402 06 235950B",
+ "title": "VASE EXPANSION CANALISATION EAU",
+ "nature": "",
+ "applicability": " DEPUIS OPR 11074",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F3N",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3N",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F3N",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F3N",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F3N",
+   "fctId": "FCT0009"
+  }
+ ]
+}

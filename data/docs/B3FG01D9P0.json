@@ -1,0 +1,20 @@
+{
+ "ref": "B3FG01D9P0",
+ "refDisplay": "B3FG01D9P0",
+ "title": "Dépose - repose : bloc hydraulique (ABS/ESP)",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0340"
+  }
+ ]
+}

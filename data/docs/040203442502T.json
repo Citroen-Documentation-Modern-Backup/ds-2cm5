@@ -1,0 +1,33 @@
+{
+ "ref": "040203442502T",
+ "refDisplay": "0402 03 442502T",
+ "title": "BIELLETTES DETAIL CREMAILLERE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F6S",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F6S",
+   "fctId": "FCT0037"
+  }
+ ]
+}

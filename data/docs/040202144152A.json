@@ -1,0 +1,23 @@
+{
+ "ref": "040202144152A",
+ "refDisplay": "0402 02 144152A",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBW",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBW",
+   "fctId": "FCT0010"
+  }
+ ]
+}

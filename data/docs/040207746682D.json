@@ -1,0 +1,113 @@
+{
+ "ref": "040207746682D",
+ "refDisplay": "0402 07 746682D",
+ "title": "PANNEAU DE COTE ENCADREMENT COTE DROIT",
+ "nature": "",
+ "applicability": "PORTE LAT G COULISSANTE ET 2 VITRES ENTREBAIL CHAQUE COTE OU SANS PORTE LATERALE COULISSANTE ET 2 VITRES ENTREBAIL CHAQUE COTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6P",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F3Q",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0FS1",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F3U",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F3N",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F7H",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBX",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3Q",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FS1",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3U",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3N",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBW",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F7H",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0129"
+  }
+ ]
+}

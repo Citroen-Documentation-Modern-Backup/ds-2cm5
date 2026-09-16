@@ -1,0 +1,23 @@
+{
+ "ref": "040205501101A",
+ "refDisplay": "0402 05 501101A",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZT&B0F=B0F6P",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6P",
+   "fctId": "FCT0308"
+  }
+ ]
+}

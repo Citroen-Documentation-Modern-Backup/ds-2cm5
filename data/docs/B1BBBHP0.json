@@ -1,0 +1,80 @@
+{
+ "ref": "B1BBBHP0",
+ "refDisplay": "B1BBBHP0",
+ "title": "Caractéristiques : moteurs ",
+ "nature": "Caractéristiques - identifications",
+ "applicability": " DEPUIS OPR 9457",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6P",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZT&B0F=B0F6P",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6P",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F6S",
+   "fctId": "FCT0049"
+  }
+ ]
+}

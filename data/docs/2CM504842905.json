@@ -1,0 +1,59 @@
+{
+ "ref": "2CM504842905",
+ "refDisplay": "2CM5 0 484 2905",
+ "title": "ENSEMBLE TUBES RIGIDE RECHAUFFEUR D’EAU",
+ "nature": "",
+ "applicability": "(J07L) BERLINGO II VU FOURGON COURT ’600’ DIESEL TURBO DW10TD BVM5 VOLET 2 VITRES ENTREBAIL CHAQUE COTE OU (J07J) BERLINGO II VU FOURGON COURT ’600’ DIESEL TURBO DW10TD BVM5 VOLET 1 VITRE DE CHAQUE COTE OU (J07H) BERLINGO II VU FOURGON COURT ’600’ DIESEL TURBO DW10TD BVM5 VOLET SANS VITRE LATERALE OU (J078) BERLINGO II VU FOURGON COURT ’600’ DIESEL TURBO DW10TD BVM5 2 PORTES AR BATTANTES VITREES 2 VITRES ENTREBAIL CHAQUE COTE OU (J076) BERLINGO II VU FOURGON COURT ’600’ DIESEL TURBO DW10TD BVM5 2 PORTES AR BATTANTES VITREES 1 VITRE DE CHAQUE COTE OU (J074) BERLINGO II VU FOURGON COURT ’600’ DIESEL TURBO DW10TD BVM5 2 PORTES AR BATTANTES VITREES SANS VITRE LATERALE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0348"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0349"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0348"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0349"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0348"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0349"
+  }
+ ]
+}

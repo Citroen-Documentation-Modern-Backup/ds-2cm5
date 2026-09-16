@@ -1,0 +1,23 @@
+{
+ "ref": "040203440084A",
+ "refDisplay": "0402 03 440084A",
+ "title": "RESERVOIR POMPE DIRECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBW",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBW",
+   "fctId": "FCT0339"
+  }
+ ]
+}

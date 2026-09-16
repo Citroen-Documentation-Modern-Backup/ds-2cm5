@@ -1,0 +1,25 @@
+{
+ "ref": "D1AG012NP0",
+ "refDisplay": "D1AG012NP0",
+ "title": "Dépose - repose : convertisseur de charge (dcdc230v)",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "040202141950A",
+ "refDisplay": "0402 02 141950A",
+ "title": "PEDALE ACCELERATEUR",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  }
+ ]
+}

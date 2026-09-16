@@ -1,0 +1,355 @@
+<div id="title" class="section_titre"><table class="refDoc"><tbody><tr><td colspan="2" class="references">B3GB03P0</td><td class="title">Diagnostic  : Antiblocage de roues </td></tr></tbody></table></div><div id="appl" class="section_appl">ANTI-BLOCAGE ROUE DEPUIS OPR 7085</div><div class="section_corps" id="content"><div class="cha1"><a name="LABEL1"></a><div class="sti1">1. Outils de diagnostic</div></div>
+<div class="cha2"><a name="LABEL2"></a><div class="sti2">1.1. Boîtier ELIT : 4125 - T/ TEP 92</div></div>
+<div class="tli">Permet d’effectuer : 
+<ul>
+<li>La lecture des codes défauts</li>
+<li>La lecture des paramètres</li>
+<li>La simulation</li>
+<li>La purge du circuit secondaire</li>
+</ul>
+</div>
+<div class="rem"><div class="att"><span class="maj">ATTENTION</span> : L’antiblocage de roue n’est pas fonctionnel pendant le diagnostic. </div></div>
+<div class="cha2"><div class="sti2">1.2. Boîte à bornes : 4109 - T</div></div>
+<div class="par">L’outil permet, associé au faisceau 4160-T.Q, la lecture des tensions et des résistances.</div><div class="cha2"><div class="sti2">1.3. Station 26 A</div></div>
+<div class="tli">L’outil  permet : 
+<ul>
+<li>La lecture des codes défauts</li>
+<li>La lecture des paramètres</li>
+<li>Le test des actionneurs</li>
+<li>La simulation</li>
+<li>La purge du circuit secondaire</li>
+</ul>
+</div>
+<div class="cha2"><div class="sti2">1.4. Boîtier interconnexions (BIP 722)</div></div>
+<div class="tli">L’outil  permet : 
+<ul>
+<li>Des mesures sur les circuits électriques</li>
+<li>Des simulations de fonctionnement d’éléments</li>
+</ul>
+</div>
+<div class="cha1"><div class="sti1">2. Tableau de recherche des pannes</div></div>
+<div class="cha2"><div class="sti2">2.1. Liste des défauts</div></div>
+<div class="par">1 - Moteur de pompe.</div><div class="par">2 - Relais de sécurité .</div><div class="par">3 - Capteur de roue arrière gauche.</div><div class="par">4 - Capteur de roue avant droite.</div><div class="par">5 - Capteur de roue arrière droite.</div><div class="par">6 - Capteur de roue avant gauche.</div><div class="par">7 - Électrovanne roue arrière gauche.</div><div class="par">8 - Électrovanne roue avant droite.</div><div class="par">9 - Électrovanne roue arrière droite.</div><div class="par">10 - Électrovanne roue avant gauche.</div><div class="par">11 - Cohérence roues dentées.</div><div class="par">12 - Contacteur de frein .</div><div class="par">13 - Disjonction calculateur.</div><div class="par">14 - Alimentation après relais de sécurité.</div><div class="rem"><div class="att"><span class="maj">ATTENTION</span> : Lorsqu’un défaut est détecté, il reste affiché comme permanent tant que le contact n’a pas été coupé; s’il disparaît, il ne sera donné comme fugitif qu’après coupure et mise du contact. </div></div>
+<div class="cha2"><div class="sti2">2.2. Défaut 1 : Moteur de pompe</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Moteur de pompe&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">2 - 1 A02 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Vérifier que la pompe est bien alimentée, sinon contrôler le fusible H</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Moteur de pompe&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1"> bloc hydraulique &nbsp;8&nbsp;( voies)&nbsp;&nbsp;Intégré au bloc calculateur </td>
+<td colspan="1" rowspan="1">Ohmmètre  : Après dépose de la partie calculateur, contrôler l’enroulement du moteur de pompe sur le connecteur du bloc hydraulique R ≈ 1 Ω</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.3. Défaut 2 : Relais de sécurité &nbsp;(alimentation électrovannes)</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Relais de sécurité &nbsp;(intégré au bloc calculateur)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Vérifier le +12 V destiné aux électrovannes, sinon contrôler le fusible F6</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Relais de sécurité &nbsp;(intégré au bloc calculateur)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Pattes 2 et 3 du peigne sur bloc calculateur</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Après dépose de la partie calculateur, contrôler la bobine du relais : R = 75 Ω entre les pattes 2 et 3 du peigne situé entre les deux relais</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.4. Défaut 3 : Capteur de roue arrière gauche</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Capteur de vitesse de roue 7010&nbsp;(roue dentée : arrière gauche)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="2">18 - 19 A18 - B19</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre &nbsp;(position AC) : Vérifier le bon fonctionnement du capteur en faisant tourner la roue; on doit avoir : U ≥0,1 V (variable en fonction de la vitesse)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Capteur de vitesse de roue 7010&nbsp;(roue dentée : arrière gauche)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">1/2 2 voies gris </td>
+<td colspan="1" rowspan="1">Ohmmètre  : Contrôler la valeur de la résistance du capteur : R ≈ 1,6 kΩ ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.5. Défaut 4 : Capteur de roue avant droite</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Capteur de vitesse de roue 7005&nbsp;(roue dentée : avant droit)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="2">23 - 24 A23 - B24</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre &nbsp;(position AC) : Vérifier le bon fonctionnement du capteur en faisant tourner la roue; on doit avoir : U ≥ 0,1 V (variable en fonction de la vitesse)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Capteur de vitesse de roue 7005&nbsp;(roue dentée : avant droit)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">1/2 2 voies gris </td>
+<td colspan="1" rowspan="1">Ohmmètre  : Contrôler la valeur de la résistance du capteur : R ≈ 1,7 kΩ ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.6. Défaut 5 : Capteur de roue arrière droite</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Capteur de vitesse de roue 7015&nbsp;(roue dentée : arrière droit)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="2">20 - 21 A20 - B21</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre &nbsp;(position AC) : Vérifier le bon fonctionnement du capteur en faisant tourner la roue; on doit avoir : U ≥ 0,1 V (variable en fonction de la vitesse)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Capteur de vitesse de roue 7015&nbsp;(roue dentée : arrière droit)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">1/2 2 voies gris </td>
+<td colspan="1" rowspan="1">Ohmmètre  : Contrôler la valeur de la résistance du capteur : R ≈ 1,6 Ω ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.7. Défaut &nbsp;6 : Capteur de roue avant gauche</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Capteur de vitesse de roue 7000&nbsp;(roue dentée : avant gauche)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="2">16 - 17 A16 - B17</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre &nbsp;(position AC) : Vérifier le bon fonctionnement du capteur en faisant tourner la roue; on doit avoir : U ≥ 0,1 V (variable en fonction de la vitesse)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Capteur de vitesse de roue 7000&nbsp;(roue dentée : avant gauche)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">1/2 2 voies gris </td>
+<td colspan="1" rowspan="1">Ohmmètre  : Contrôler la valeur de la résistance du capteur : R ≈ 1,7 kΩ ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.8. Défaut 7 : Électrovanne de roue &nbsp;(arrière gauche)</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne admission&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Contrôler l’alimentation des électrovannes en amont du relais de sécurité; on doit avoir : U = 12 V, sinon vérifier F6</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne admission&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1"> bloc hydraulique  5/7 14 voies</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Vérifier la résistance de l’électrovanne : R ≈ 4,7 Ω ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne de restriction &nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Contrôler l’alimentation des électrovannes en amont du relais de sécurité; on doit avoir : U = 12 V, sinon vérifier F6</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne de restriction &nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1"> bloc hydraulique  2/7 14 voies</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Vérifier la résistance de l’électrovanne : R ≈ 9 Ω ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.9. Défaut 8 : Électrovanne de roue &nbsp;(avant droit)</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne admission&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Contrôler l’alimentation des électrovannes en amont du relais de sécurité; on doit avoir : U = 12 V, sinon vérifier F6</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne admission&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1"> bloc hydraulique  6/7 14 voies</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Vérifier la résistance de l’électrovanne : R ≈ 4,7 Ω ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne de restriction &nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Contrôler l’alimentation des électrovannes en amont du relais de sécurité; on doit avoir : U = 12 V, sinon vérifier F6</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne de restriction &nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1"> bloc hydraulique  1/7 14 voies</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Vérifier la résistance de l’électrovanne : R ≈ 9 Ω ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.10. Défaut  9 : Électrovanne de roue &nbsp;(arrière droit)</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne admission&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Contrôler l’alimentation des électrovannes en amont du relais de sécurité; on doit avoir : U = 12 V, sinon vérifier F6</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne admission&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1"> bloc hydraulique  10/7 14 voies</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Vérifier la résistance de l’électrovanne : R ≈ 4,7 Ω ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne de restriction &nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Contrôler l’alimentation des électrovannes en amont du relais de sécurité; on doit avoir : U = 12 V, sinon vérifier F6</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne de restriction &nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1"> bloc hydraulique  13/7 14 voies</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Vérifier la résistance de l’électrovanne : R ≈ 9 Ω ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.11. Défaut  10 : Électrovanne de roue &nbsp;(avant gauche)</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne admission&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Contrôler l’alimentation des électrovannes en amont du relais de sécurité; on doit avoir : U = 12 V, sinon vérifier F6</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne admission&nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1"> bloc hydraulique  9/7 14 voies</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Vérifier la résistance de l’électrovanne : R ≈ 4,7 Ω ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne de restriction &nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Contrôler l’alimentation des électrovannes en amont du relais de sécurité; on doit avoir : U = 12 V, sinon vérifier F6</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Électrovanne de restriction &nbsp;(intégré au bloc hydraulique)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1"> bloc hydraulique  14/7 14 voies</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Vérifier la résistance de l’électrovanne : R ≈ 9 Ω ; Vérifier l’isolement par rapport à la masse : R ≥ 20 MΩ</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.12. Défaut  11 : Cohérence roues dentées</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Informations issues des capteurs de vitesse de roue 7000 - 7005 7010 - 7015</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Lecture des paramètres : Vérifier la cohérence des informations Vitesse de Roue issues des capteurs au roulage ; Contrôler l’état du capteur et des dents de la roue présentant un écart de vitesse par rapport aux autres</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.13. Défaut  12 : Contacteur de stop </div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Contacteur de stop &nbsp;(sur pédale de frein)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="2">28 - 1 A28 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : U = 12 V&nbsp;(pédale de frein appuyée) ; U = 0 V&nbsp;(pédale de frein au repos)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Contacteur de stop &nbsp;(sur pédale de frein)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">2/1 2 voies blanc </td>
+<td colspan="1" rowspan="1">Ohmmètre  : Contrôler le contact : R = 0 Ω (pédale de frein appuyée) ; Résistance infinie&nbsp;(pédale de frein au repos)</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">2.14. Défaut  13 : Disjonction calculateur</div></div>
+<div class="par">Faire un essai avec un calculateur  neuf.</div><div class="cha2"><div class="sti2">2.15. Défaut  14 : Alimentation après relais de sécurité</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Relais de sécurité &nbsp;(intégré au bloc calculateur)</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">3 - 1 A03 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  : Contrôler l’alimentation des électrovannes en amont du relais de sécurité ; on doit avoir : U = 12 V</td>
+</tr></tbody></table>
+</div>
+<div class="cha1"><div class="sti1">3. Contrôles électriques</div></div>
+<div class="cha2"><div class="sti2">3.1. Voyant de défaut </div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Voyant de défaut 0004 sur combiné</td>
+<td colspan="1" rowspan="1">Branché</td>
+<td colspan="1" rowspan="1">40 - 1 A40 - B01</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Voltmètre  (Contact mis) : U = 12 V&nbsp;(voyant éteint) ; U = 0 V&nbsp;(voyant allumé)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Contacteur de stop &nbsp;(sur pédale de frein)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">4 - 40 A04 - B40</td>
+<td colspan="1" rowspan="1">7/5 10 voies blanc </td>
+<td colspan="1" rowspan="1">Ohmmètre  (Contact coupé) : Contrôler la résistance du voyant  : R ≈ 14,5 Ω</td>
+</tr></tbody></table>
+</div>
+<div class="cha2"><div class="sti2">3.2. Relais moteur électropompe</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">Organes et implantation</td>
+<td colspan="1" rowspan="1">Connecteur calculateur</td>
+<td colspan="1" rowspan="1">Numéro de boîte à bornes&nbsp;/BIP 722</td>
+<td colspan="1" rowspan="1">Bornes sur organes</td>
+<td colspan="1" rowspan="1">Valeurs de contrôle</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Relais moteur électropompe&nbsp;(intégré au bloc calculateur)</td>
+<td colspan="1" rowspan="1">Débranché</td>
+<td colspan="1" rowspan="1">--</td>
+<td colspan="1" rowspan="1">Pattes 1 et 6 du peigne sur bloc calculateur</td>
+<td colspan="1" rowspan="1">Ohmmètre  : Après dépose de la partie calculateur, contrôler la bobine du relais : R = 75 Ω entre les pattes 1 et 6 du peigne situé entre les deux relais</td>
+</tr></tbody></table>
+</div>
+<div id="b3gp019d_1_div"><div class="legende"></div><table class="imgTable"><tbody><tr><td class="imgTable" colspan="2"><div><img src="img/AC/img/inf_inc/9d/b3gp/b3gp019d.avif" class="image" height="360" width="615" id="b3gp019d_1"></div></td></tr><tr><td class="imgTable"><span class="fig">Figure : <span class="img_numfich">b3gp019d</span></span></td><td align="right" class="imgTable"><span class="imgNavbar"><a href="img/AC/img/inf_inc/9d/b3gp/b3gp019d.avif" data-figure="1"><img id="b3gp019d_1_FullScreen" border="0" width="20" height="20" alt="Afficher l'image en plein écran" src="img/images/Document/fullscreen.avif"></a></span></td></tr></tbody></table></div></div>

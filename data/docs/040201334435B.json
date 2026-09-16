@@ -1,0 +1,33 @@
+{
+ "ref": "040201334435B",
+ "refDisplay": "0402 01 334435B",
+ "title": "LIGNE SECONDAIRE BVM",
+ "nature": "",
+ "applicability": "BVM BE4 J ET CP 19 X 77 DEPUIS BOITE 0194798",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F6S",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F6S",
+   "fctId": "FCT0017"
+  }
+ ]
+}

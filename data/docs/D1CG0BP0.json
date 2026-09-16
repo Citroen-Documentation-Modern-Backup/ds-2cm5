@@ -1,0 +1,45 @@
+{
+ "ref": "D1CG0BP0",
+ "refDisplay": "D1CG0BP0",
+ "title": "Dépose - repose : coffre de batterie central",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0766"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0766"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0766"
+  }
+ ]
+}

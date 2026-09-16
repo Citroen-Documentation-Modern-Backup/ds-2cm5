@@ -1,0 +1,18 @@
+{
+ "ref": "040204371155A",
+ "refDisplay": "0402 04 371155A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0022"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "D1AK0106P0",
+ "refDisplay": "D1AK0106P0",
+ "title": "Dépose - repose : batterie de servitude",
+ "nature": "Précautions à prendre",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0942"
+  }
+ ]
+}

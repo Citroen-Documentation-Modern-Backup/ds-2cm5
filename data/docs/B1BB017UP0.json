@@ -1,0 +1,20 @@
+{
+ "ref": "B1BB017UP0",
+ "refDisplay": "B1BB017UP0",
+ "title": "Couples de serrage : suspension ensemble moteur - réducteur",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0049"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "ref": "040206184860B",
+ "refDisplay": "0402 06 184860B",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 11938 SAUF LIAISON AU SOL 1000KG",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F3N",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3N",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F3N",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F3N",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F3N",
+   "fctId": "FCT0011"
+  }
+ ]
+}

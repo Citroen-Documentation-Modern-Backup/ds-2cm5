@@ -1,0 +1,38 @@
+{
+ "ref": "040201241051A",
+ "refDisplay": "0402 01 241051A",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "1 VENTILATEUR 2 VITESSES 140W AERO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F3U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F3U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F3U",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F3U",
+   "fctId": "FCT0009"
+  }
+ ]
+}

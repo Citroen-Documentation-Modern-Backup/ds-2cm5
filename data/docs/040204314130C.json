@@ -1,0 +1,18 @@
+{
+ "ref": "040204314130C",
+ "refDisplay": "0402 04 314130C",
+ "title": "PEDALE DE FREIN PEDALIER CONTACTEUR STOP",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE DEPUIS OPR 10322 JUSQU’A OPR 10737",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0047"
+  }
+ ]
+}

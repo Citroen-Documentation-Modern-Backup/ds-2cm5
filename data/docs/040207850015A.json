@@ -1,0 +1,23 @@
+{
+ "ref": "040207850015A",
+ "refDisplay": "0402 07 850015A",
+ "title": "TRAPPE BOUCHON RESERVOIR",
+ "nature": "",
+ "applicability": "BICARBURATION GNV OU BICARBURATION GNV DEPOLLUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  }
+ ]
+}

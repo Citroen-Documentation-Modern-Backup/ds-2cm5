@@ -1,0 +1,25 @@
+{
+ "ref": "B3BG013WP0",
+ "refDisplay": "B3BG013WP0",
+ "title": "Dépose - repose : ensemble ressort - amortisseur avant ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0028"
+  }
+ ]
+}

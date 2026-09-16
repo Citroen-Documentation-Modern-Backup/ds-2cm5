@@ -1,0 +1,55 @@
+{
+ "ref": "B1HB019QP0",
+ "refDisplay": "B1HB019QP0",
+ "title": "Caractéristiques : circuit d’alimentation d’air (WMI 935, 936, 8BC, 8AD)",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0FBW",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0FBW",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0FBW",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0FBW",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBW",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBW",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBW",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBW",
+   "fctId": "FCT0010"
+  }
+ ]
+}

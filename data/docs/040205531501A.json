@@ -1,0 +1,23 @@
+{
+ "ref": "040205531501A",
+ "refDisplay": "0402 05 531501A",
+ "title": "FAISCEAU DE PUISSANCE (VEH ELECT )",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "040208622160A",
+ "refDisplay": "0402 08 622160A",
+ "title": "CRIC DE LEVAGE",
+ "nature": "",
+ "applicability": " DEPUIS DAM 09562FL OU  DEPUIS DAM 09562FV OU  DEPUIS DAM 0956277",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0116"
+  }
+ ]
+}

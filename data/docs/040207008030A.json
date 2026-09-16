@@ -1,0 +1,33 @@
+{
+ "ref": "040207008030A",
+ "refDisplay": "0402 07 008030A",
+ "title": "CAISSE COMPLETE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F3U",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F3N",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F7H",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0146"
+  }
+ ]
+}

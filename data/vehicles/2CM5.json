@@ -1,0 +1,411 @@
+{
+ "ldp": "2CM5",
+ "label": "BERLINGO (M59)",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DZT",
+     "lib": "FOURGON COURT &#8217;475&#8217;"
+    },
+    {
+     "val": "B0DZW",
+     "lib": "FOURGON COURT &#8217;500&#8217;"
+    },
+    {
+     "val": "B0DZU",
+     "lib": "FOURGON COURT &#8217;600&#8217;"
+    },
+    {
+     "val": "B0DZV",
+     "lib": "FOURGON COURT &#8217;800&#8217;"
+    },
+    {
+     "val": "B0D5B",
+     "lib": "FOURGON LONG H1 TYPE 8"
+    },
+    {
+     "val": "B0D5D",
+     "lib": "FOURGON TOLE LONG H1 TYPE 12"
+    },
+    {
+     "val": "B0DRA",
+     "lib": "PLANCHER CABINE COURT TYPE 8"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FBX",
+     "lib": "1,6 HDi 75 (DV6ETED M)"
+    },
+    {
+     "val": "B0F6P",
+     "lib": "1.1 i (TU1JP)"
+    },
+    {
+     "val": "B0F3Q",
+     "lib": "1.4 i (TU3JPH)"
+    },
+    {
+     "val": "B0FS1",
+     "lib": "1.4 i 75 (TU3A)"
+    },
+    {
+     "val": "B0F6Q",
+     "lib": "1.4 i 75 (TU3JP)"
+    },
+    {
+     "val": "B0F3U",
+     "lib": "1.6 HDi 75"
+    },
+    {
+     "val": "B0F3N",
+     "lib": "1.6 HDi 92 (DV6ATED4)"
+    },
+    {
+     "val": "B0FBW",
+     "lib": "1.6 HDi 92 (DV6DTED M)"
+    },
+    {
+     "val": "B0F6S",
+     "lib": "1.6 i 16v 110 (TU5JP4)"
+    },
+    {
+     "val": "B0F7H",
+     "lib": "1.9 D 71 (DW8B)"
+    },
+    {
+     "val": "B0F2X",
+     "lib": "2.0 HDi 90"
+    },
+    {
+     "val": "B0F00",
+     "lib": "MOTEUR ELECTRIQUE VENTURI"
+    },
+    {
+     "val": "B0FE4",
+     "lib": "SA18"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DZT&B0F=B0F6P",
+   "selections": {
+    "B0D": "B0DZT",
+    "B0F": "B0F6P"
+   },
+   "label": "FOURGON COURT &#8217;475&#8217; · 1.1 i (TU1JP)"
+  },
+  {
+   "key": "B0D=B0DZW&B0F=B0FE4",
+   "selections": {
+    "B0D": "B0DZW",
+    "B0F": "B0FE4"
+   },
+   "label": "FOURGON COURT &#8217;500&#8217; · SA18"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F6P",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F6P"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.1 i (TU1JP)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F3Q",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F3Q"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.4 i (TU3JPH)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0FS1"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F6Q",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F6Q"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.4 i 75 (TU3JP)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F3U"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F3N"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F6S"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F7H"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F2X",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F2X"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 2.0 HDi 90"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0FBX",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0FBX"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1,6 HDi 75 (DV6ETED M)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F3Q",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F3Q"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.4 i (TU3JPH)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0FS1"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F6Q",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F6Q"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.4 i 75 (TU3JP)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F3U"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F3N"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0FBW",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0FBW"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.6 HDi 92 (DV6DTED M)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F6S"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F7H"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F2X",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F2X"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 2.0 HDi 90"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F00",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F00"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · MOTEUR ELECTRIQUE VENTURI"
+  },
+  {
+   "key": "B0D=B0D5B&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0D5B",
+    "B0F": "B0FS1"
+   },
+   "label": "FOURGON LONG H1 TYPE 8 · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0D5B&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0D5B",
+    "B0F": "B0F3U"
+   },
+   "label": "FOURGON LONG H1 TYPE 8 · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0D5B&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0D5B",
+    "B0F": "B0F3N"
+   },
+   "label": "FOURGON LONG H1 TYPE 8 · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0D5B&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0D5B",
+    "B0F": "B0F6S"
+   },
+   "label": "FOURGON LONG H1 TYPE 8 · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0D5B&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0D5B",
+    "B0F": "B0F7H"
+   },
+   "label": "FOURGON LONG H1 TYPE 8 · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0D5D&B0F=B0FBX",
+   "selections": {
+    "B0D": "B0D5D",
+    "B0F": "B0FBX"
+   },
+   "label": "FOURGON TOLE LONG H1 TYPE 12 · 1,6 HDi 75 (DV6ETED M)"
+  },
+  {
+   "key": "B0D=B0D5D&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0D5D",
+    "B0F": "B0FS1"
+   },
+   "label": "FOURGON TOLE LONG H1 TYPE 12 · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0D5D&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0D5D",
+    "B0F": "B0F3U"
+   },
+   "label": "FOURGON TOLE LONG H1 TYPE 12 · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0D5D&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0D5D",
+    "B0F": "B0F3N"
+   },
+   "label": "FOURGON TOLE LONG H1 TYPE 12 · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0D5D&B0F=B0FBW",
+   "selections": {
+    "B0D": "B0D5D",
+    "B0F": "B0FBW"
+   },
+   "label": "FOURGON TOLE LONG H1 TYPE 12 · 1.6 HDi 92 (DV6DTED M)"
+  },
+  {
+   "key": "B0D=B0D5D&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0D5D",
+    "B0F": "B0F6S"
+   },
+   "label": "FOURGON TOLE LONG H1 TYPE 12 · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0D5D&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0D5D",
+    "B0F": "B0F7H"
+   },
+   "label": "FOURGON TOLE LONG H1 TYPE 12 · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DRA&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0DRA",
+    "B0F": "B0F3U"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 8 · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0DRA&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DRA",
+    "B0F": "B0F3N"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 8 · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DRA&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DRA",
+    "B0F": "B0F7H"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 8 · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DRA&B0F=B0F2X",
+   "selections": {
+    "B0D": "B0DRA",
+    "B0F": "B0F2X"
+   },
+   "label": "PLANCHER CABINE COURT TYPE 8 · 2.0 HDi 90"
+  }
+ ]
+}

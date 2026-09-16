@@ -1,0 +1,35 @@
+{
+ "ref": "B1DG015SP0",
+ "refDisplay": "B1DG015SP0",
+ "title": "Dépose - repose : couvre-culasse (wmi 935, 936, 8bc, 8ad)",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0FBW",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0FBW",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBW",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBW",
+   "fctId": "FCT0006"
+  }
+ ]
+}

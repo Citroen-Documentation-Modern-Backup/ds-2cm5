@@ -1,0 +1,33 @@
+{
+ "ref": "040201222005A",
+ "refDisplay": "0402 01 222005A",
+ "title": "POMPE A HUILE - CHAINE - CREPINE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0FS1",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FS1",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0FS1",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FS1",
+   "fctId": "FCT0008"
+  }
+ ]
+}

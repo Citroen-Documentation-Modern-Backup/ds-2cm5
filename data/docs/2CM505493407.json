@@ -1,0 +1,24 @@
+{
+ "ref": "2CM505493407",
+ "refDisplay": "2CM5 0 549 3407",
+ "title": "FAISCEAU ENTRE COFFRE AV SUP ET AR",
+ "nature": "",
+ "applicability": "(J08C) BERLINGO II VU FOURGON COURT ’500’ MOTEUR ELECTRIQUE SA18 2 PORTES AR BATTANTES VITREES 1 VITRE DE CHAQUE COTE OU (J08B) BERLINGO II VU FOURGON COURT ’500’ MOTEUR ELECTRIQUE SA18 2 PORTES AR BATTANTES VITREES SANS VITRE LATERALE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0308"
+  }
+ ]
+}

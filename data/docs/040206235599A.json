@@ -1,0 +1,18 @@
+{
+ "ref": "040206235599A",
+ "refDisplay": "0402 06 235599A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0009"
+  }
+ ]
+}

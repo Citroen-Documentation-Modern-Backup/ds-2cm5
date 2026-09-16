@@ -1,0 +1,33 @@
+{
+ "ref": "040205502428A",
+ "refDisplay": "0402 05 502428A",
+ "title": "FAISCEAUX INTERMEDIAIRES",
+ "nature": "",
+ "applicability": " DEPUIS DAM 10920FL OU  DEPUIS DAM 10920FV OU  DEPUIS DAM 1092077",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F3U",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F3N",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F7H",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0309"
+  }
+ ]
+}

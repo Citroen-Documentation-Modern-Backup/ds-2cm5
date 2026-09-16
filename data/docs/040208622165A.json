@@ -1,0 +1,23 @@
+{
+ "ref": "040208622165A",
+ "refDisplay": "0402 08 622165A",
+ "title": "CRIC DE LEVAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0116"
+  }
+ ]
+}

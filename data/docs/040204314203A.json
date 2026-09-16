@@ -1,0 +1,23 @@
+{
+ "ref": "040204314203A",
+ "refDisplay": "0402 04 314203A",
+ "title": "PEDALE EMBRAYAGE CABLE",
+ "nature": "",
+ "applicability": "BVM MA ET CONDUITE A GAUCHE DEPUIS OPR 09891 JUSQU’A OPR 10429",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0016"
+  }
+ ]
+}

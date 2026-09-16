@@ -1,0 +1,23 @@
+{
+ "ref": "040206183005A",
+ "refDisplay": "0402 06 183005A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": " DEPUIS DAM 09457FV OU  DEPUIS DAM 09457FL OU  DEPUIS DAM 11773UZ SAUF BICARBURATION GNV SAUF BICARBURATION GPL SAUF BICARBURATION GNV DEPOLLUE SAUF RAMONEUR GNV SAUF RAMONEUR GNV DEPOLLUE SAUF BICARBURATION COMPATIBILITE TOUS GAZ",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0011"
+  }
+ ]
+}

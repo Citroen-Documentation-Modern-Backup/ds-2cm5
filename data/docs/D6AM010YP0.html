@@ -1,0 +1,254 @@
+<div id="title" class="section_titre"><table class="refDoc"><tbody><tr><td colspan="2" class="references">D6AM010YP0</td><td class="title">Télécodage : Calculateur contrôle moteur BOSCH ME 7.4.5</td></tr></tbody></table></div><div id="appl" class="section_appl"></div><div class="section_corps" id="content"><div class="cha1"><a name="LABEL1"></a><div class="sti1">1. Véhicule concerné</div></div>
+<div class="part"><div class="clsBookExpanded" child="4" id="obook4"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="4" id="cbook4"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro"></div>
+<div class="clsExpanded" id="4">
+<div class="par">Citroën C2.</div><div class="par">À partir du CD de diagnostic N° 45.</div></div>
+</div>
+<div class="cha1"><a name="LABEL2"></a><div class="sti1">2. Sommaire</div></div>
+<div class="par"><a href="#LABEL3" class="lienHyperTexte">Consignes de sécurité</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="par"><a href="#LABEL11" class="lienHyperTexte">Opérations préliminaires</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="par"><a href="#LABEL5" class="lienHyperTexte">Télécodage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> .</div><div class="tli"><a href="#LABEL6" class="lienHyperTexte">Tableaux de télécodage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5">  : 
+<ul>
+<li><a href="#LABEL16" class="lienHyperTexte">Tableaux de télécodage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5">  1</li>
+<li><a href="#LABEL13" class="lienHyperTexte">Tableaux de télécodage</a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5">  2</li>
+<li><a href="#LABEL15" class="lienHyperTexte">Architecture électrique </a> <img src="img/images/Document/info.avif" align="bottom" border="0" hspan="5"> </li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL3"></a><div class="sti1">3. Consignes de sécurité</div></div>
+<div class="rem"><div class="not"><span class="maj">NOTA</span> : L’opération de télécodage est une opération sensible qui a des conséquences directes sur le bon fonctionnement du véhicule. </div></div>
+<div class="tli">Un mauvais télécodage peut avoir des impacts sur : 
+<ul>
+<li>La sécurité (Désactivation des dispositifs de protection du véhicule)</li>
+<li>Le fonctionnement global du véhicule (Dégradation ou perte complète des fonctions du véhicule)</li>
+<li>Le diagnostic du véhicule (Remontée de code défauts pouvant mettre en échec les méthodes de diagnostic de l’outil et conduire à des remplacements de pièces injustifiées)</li>
+</ul>
+</div>
+<div class="tli">Avant toute tentative de démarrage du moteur : 
+<ul>
+<li>Contrôler que le frein de stationnement est activé</li>
+<li>En présence d’une boîte de vitesses automatique, contrôler que le levier de vitesses est en position "P" (Park)</li>
+<li>En présence d’une boîte de vitesses manuelle, contrôler que le levier de vitesses est au point mort</li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL11"></a><div class="sti1">4. Opérations préliminaires</div></div>
+<div class="tli">Avant toute intervention : 
+<ul>
+<li>Établir la communication avec le calculateur ; À l’aide de l’outil diagnostic</li>
+<li>Imprimer l’ensemble des écrans de l’outil de diagnostic indiquant les valeurs des paramètres de télécodage, ou noter ces valeurs manuellement</li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL5"></a><div class="sti1">5. Télécodage</div></div>
+<div class="tli">En cas de télécodage du calculateur : 
+<ul>
+<li>Établir la communication avec le calculateur</li>
+<li>Effectuer le télécodage par internet</li>
+<li>Vérifier le télécodage</li>
+</ul>
+</div>
+<div class="tli">En cas de remplacement d’un calculateur : 
+<ul>
+<li>Monter le calculateur neuf</li>
+<li>Établir la communication avec le calculateur</li>
+<li>Effectuer le télécodage par internet</li>
+<li>Vérifier le télécodage</li>
+<li>Effectuer les opérations d’apprentissage (Si nécessaire)</li>
+</ul>
+</div>
+<div class="cha1"><a name="LABEL6"></a><div class="sti1">6. Tableaux de télécodage</div></div>
+<div class="rem"><div class="not"><span class="maj">NOTA</span> : Les paramètres du menu "options client" sont aussi présents dans le menu configuration, il n’est donc pas nécessaire de télécoder ceux-ci lorsque le télécodage des paramètres du menu " configuration " a été ou va être effectué. </div></div>
+<div class="part"><div class="clsBookExpanded" child="8" id="obook8"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="8" id="cbook8"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro"></div>
+<div class="clsExpanded" id="8">
+<div class="par">Pour les indices d’évolution logiciel inférieurs à 11.00 (voir menus identification), appliquer le plan tableau de télécodage n°1.</div><div class="par">Pour les indices d’évolution logiciel supérieurs ou égaux à 11.00 (voir menus identification), appliquer le plan tableau de télécodage n°2.</div></div>
+</div>
+<div class="cha2"><a name="LABEL16"></a><div class="sti2">6.1. Tableaux de télécodage 1</div></div>
+<div class="part"><div class="clsBookExpanded" child="9" id="obook9"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="9" id="cbook9"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro"></div>
+<div class="clsExpanded" id="9">
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="4">Tableaux de télécodage 1</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeurs à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+</tr><tr valign="top"><td colspan="1" rowspan="3"></td>
+<td colspan="1" rowspan="3">Refroidissement moteur</td>
+<td colspan="1" rowspan="1">Groupe motoventilateur 1 vitesse (sans air conditionné)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Groupe Moto Ventilateur 2 / 3 vitesses (avec air conditionné)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">1 Groupe Moto Ventilateur à vitesse variable (hacheur)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Capteur de pression <br>Air conditionné </td>
+<td colspan="1" rowspan="1">Sans air conditionné</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Pressostat linéaire</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="4"></td>
+<td colspan="1" rowspan="4">Boîte de vitesses </td>
+<td colspan="1" rowspan="1">Boîte de Vitesses Manuelle longue (Voir sur site Corvet@)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Boîte de Vitesses Manuelle courte (Voir sur site Corvet@)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Boîte de vitesses manuelle pilotée </td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Boîte de vitesses automatique </td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="5"></td>
+<td colspan="1" rowspan="5">Alternateur </td>
+<td colspan="1" rowspan="1"> classe 7</td>
+<td colspan="1" rowspan="5">La classe alternateur est inscrite sur l’étiquette de l’alternateur</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Classe 8 ou 8+</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1"> classe 9</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1"> classe 12</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1"> classe 15</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Carrosserie (silhouette, dépollution)</td>
+<td colspan="1" rowspan="1">Dépollution L4 ou IFL5 ou essence sans plomb</td>
+<td colspan="1" rowspan="1">Véhicules équipés d’une seule sonde lambda, utilisant de l’essence sans plomb</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Essence avec plomb</td>
+<td colspan="1" rowspan="1">Pays utilisant uniquement de l’essence avec plomb</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Architecture électrique </td>
+<td colspan="1" rowspan="1">Voir tableau</td>
+<td colspan="1" rowspan="1"></td>
+</tr></tbody></table>
+</div>
+</div>
+</div>
+<div class="cha2"><a name="LABEL13"></a><div class="sti2">6.2. Tableaux de télécodage 2</div></div>
+<div class="part"><div class="clsBookExpanded" child="11" id="obook11"> <img class="book" src="img/images/Document/obook.avif"></div>
+<div class="clsBookCollapsed" child="11" id="cbook11"> <img class="book" src="img/images/Document/cbook.avif"></div>
+<div class="applMicro"></div>
+<div class="clsExpanded" id="11">
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="4">Tableaux de télécodage 2</th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeurs à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+</tr><tr valign="top"><td colspan="1" rowspan="3"></td>
+<td colspan="1" rowspan="3">Refroidissement moteur</td>
+<td colspan="1" rowspan="1">Groupe motoventilateur 1 vitesse (sans air conditionné)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Groupe Moto Ventilateur 2 / 3 vitesses (avec air conditionné)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">1 Groupe Moto Ventilateur à vitesse variable (hacheur)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Capteur de pression <br>Air conditionné </td>
+<td colspan="1" rowspan="1">Sans air conditionné</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Pressostat linéaire</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="6"></td>
+<td colspan="1" rowspan="6">Boîte de vitesses </td>
+<td colspan="1" rowspan="1">Boîte de Vitesses Manuelle longue (Voir sur site Corvet@)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Boîte de Vitesses Manuelle courte (Voir sur site Corvet@)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Boîte de vitesses manuelle pilotée et pédale d’accélération sans point dur (Voir sur site Corvet@)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Boîte de vitesses manuelle pilotée et pédale d’accélération avec point dur (Voir sur site Corvet@)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Boîte de vitesses automatique et pédale d’accélération sans point dur (Voir sur site Corvet@)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Boîte de vitesses automatique et pédale d’accélération avec point dur (Voir sur site Corvet@)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="5"></td>
+<td colspan="1" rowspan="5">Alternateur </td>
+<td colspan="1" rowspan="1"> classe 7</td>
+<td colspan="1" rowspan="5">La classe alternateur est inscrite sur l’étiquette de l’alternateur</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Classe 8 ou 8+</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1"> classe 9</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1"> classe 12</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1"> classe 15</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Carrosserie (silhouette, dépollution)</td>
+<td colspan="1" rowspan="1">Dépollution L4 ou IFL5 ou essence sans plomb</td>
+<td colspan="1" rowspan="1">Véhicules équipés d’une seule sonde lambda, utilisant de l’essence sans plomb</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Essence avec plomb</td>
+<td colspan="1" rowspan="1">Pays utilisant uniquement de l’essence avec plomb</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Architecture électrique </td>
+<td colspan="1" rowspan="1">Voir tableau</td>
+<td colspan="1" rowspan="1"></td>
+</tr></tbody></table>
+</div>
+</div>
+</div>
+<div class="cha2"><a name="LABEL15"></a><div class="sti2">6.3. Architecture électrique </div></div>
+<div class="tableau">
+<table class="tableauAC">
+<thead><tr><th class="tete" colspan="4">Architecture électrique </th></tr></thead>
+<tbody><tr valign="top"><td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Paramètres de télécodage</td>
+<td colspan="1" rowspan="1">Valeurs à télécoder</td>
+<td colspan="1" rowspan="1">Commentaires</td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2"> direction assistée</td>
+<td colspan="1" rowspan="1">Direction assistée hydraulique</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Pas de direction assistée, ou direction assistée électrique, ou direction assistée électrohydraulique (GEP)</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">ABS </td>
+<td colspan="1" rowspan="1">ABS présent avec ou sans ESP</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">ABS absent</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Capteur d’embrayage</td>
+<td colspan="1" rowspan="1">Présent</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Absent </td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Démarrage et arrêt moteur piloté</td>
+<td colspan="1" rowspan="1">Présent</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Absent </td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Limitation vitesse véhicule</td>
+<td colspan="1" rowspan="1">Présente</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Absente</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Régulation de Vitesse Véhicule (RVV) avec Limitation de Vitesse Véhicule (LVV)</td>
+<td colspan="1" rowspan="1">Présente</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Absente</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Régulation de Vitesse Véhicule (RVV) sans Limitation de Vitesse Véhicule (LVV)</td>
+<td colspan="1" rowspan="1">Présente</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Absente</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Contrôle de stabilité (ESP)</td>
+<td colspan="1" rowspan="1">Présent</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Absent </td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Boîtier de servitude intelligent (BSI)</td>
+<td colspan="1" rowspan="1">Présente</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Absent </td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="2"></td>
+<td colspan="1" rowspan="2">Boîte de vitesses automatique ou manuelle pilotée</td>
+<td colspan="1" rowspan="1">Présente</td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">Absente</td>
+<td colspan="1" rowspan="1"></td>
+</tr></tbody></table>
+</div>
+</div>

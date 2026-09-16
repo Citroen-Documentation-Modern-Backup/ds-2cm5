@@ -1,0 +1,23 @@
+{
+ "ref": "040204456204P",
+ "refDisplay": "0402 04 456204P",
+ "title": "AMPLIFICATEUR DE FREINAGE RACCORDS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBX",
+   "fctId": "FCT0044"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBX",
+   "fctId": "FCT0044"
+  }
+ ]
+}

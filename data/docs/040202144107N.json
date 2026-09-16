@@ -1,0 +1,23 @@
+{
+ "ref": "040202144107N",
+ "refDisplay": "0402 02 144107N",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "DEPOLLUTION EURO 4(MOTEUR) ET BICARBURATION GNV DEPOLLUE DEPUIS OPR 10535",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  }
+ ]
+}

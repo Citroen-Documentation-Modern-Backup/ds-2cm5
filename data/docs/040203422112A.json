@@ -1,0 +1,23 @@
+{
+ "ref": "040203422112A",
+ "refDisplay": "0402 03 422112A",
+ "title": "TRAVERSES SUSP AR BARRES RESSORT",
+ "nature": "",
+ "applicability": "SUSPENSION NORMALE REHAUSSEE OU SUSPENSION RENFORCEE AV ET AR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0031"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0031"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "ref": "2CM50830940",
+ "refDisplay": "2CM5 0 83 0940",
+ "title": "JOINT AXE DE SELECTION VITESSES",
+ "nature": "",
+ "applicability": "(J08F) BERLINGO II VU FOURGON COURT ’600’ INJECTION TU3A BVM5 2 PORTES AR BATTANTES VITREES SANS VITRE LATERALE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0FS1",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FS1",
+   "fctId": "FCT0017"
+  }
+ ]
+}

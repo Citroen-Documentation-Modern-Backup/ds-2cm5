@@ -1,0 +1,20 @@
+{
+ "ref": "B3EI010KP0",
+ "refDisplay": "B3EI010KP0",
+ "title": "Vidange - remplissage - purge : circuit d’assistance de direction",
+ "nature": "Vidange - remplissage - purge",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0339"
+  }
+ ]
+}

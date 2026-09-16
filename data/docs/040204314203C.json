@@ -1,0 +1,23 @@
+{
+ "ref": "040204314203C",
+ "refDisplay": "0402 04 314203C",
+ "title": "PEDALE EMBRAYAGE CABLE",
+ "nature": "",
+ "applicability": "BVM MA ET CONDUITE A GAUCHE DEPUIS DAM 12110FL",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0016"
+  }
+ ]
+}

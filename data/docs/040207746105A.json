@@ -1,0 +1,18 @@
+{
+ "ref": "040207746105A",
+ "refDisplay": "0402 07 746105A",
+ "title": "CLOISON DE CABINE",
+ "nature": "",
+ "applicability": "SANS PORTE LATERALE COULISSANTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0148"
+  }
+ ]
+}

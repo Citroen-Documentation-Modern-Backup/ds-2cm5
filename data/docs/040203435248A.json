@@ -1,0 +1,18 @@
+{
+ "ref": "040203435248A",
+ "refDisplay": "0402 03 435248A",
+ "title": "BARRES ANTIDEVERS AVANT",
+ "nature": "",
+ "applicability": " DEPUIS OPR 10563",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3U",
+   "fctId": "FCT0029"
+  }
+ ]
+}

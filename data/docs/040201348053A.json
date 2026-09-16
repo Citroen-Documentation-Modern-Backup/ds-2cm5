@@ -1,0 +1,23 @@
+{
+ "ref": "040201348053A",
+ "refDisplay": "0402 01 348053A",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0FBX",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0FBX",
+   "fctId": "FCT0049"
+  }
+ ]
+}

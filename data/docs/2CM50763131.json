@@ -1,0 +1,19 @@
+{
+ "ref": "2CM50763131",
+ "refDisplay": "2CM5 0 76 3131",
+ "title": "TUBE C/C REMPLISSAGE COFFRE INF AV",
+ "nature": "",
+ "applicability": "(J08C) BERLINGO II VU FOURGON COURT ’500’ MOTEUR ELECTRIQUE SA18 2 PORTES AR BATTANTES VITREES 1 VITRE DE CHAQUE COTE OU (J08B) BERLINGO II VU FOURGON COURT ’500’ MOTEUR ELECTRIQUE SA18 2 PORTES AR BATTANTES VITREES SANS VITRE LATERALE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  }
+ ]
+}

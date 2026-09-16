@@ -1,0 +1,18 @@
+{
+ "ref": "040206175030A",
+ "refDisplay": "0402 06 175030A",
+ "title": "RESERVOIR CARBURANT JAUGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  }
+ ]
+}

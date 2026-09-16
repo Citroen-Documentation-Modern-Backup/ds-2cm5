@@ -1,0 +1,130 @@
+{
+ "ref": "B1BG8XP0",
+ "refDisplay": "B1BG8XP0",
+ "title": "Remontage : Moteur ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CA6",
+   "variantKey": "B0D=B0DA3&B0F=B0FFG",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CA8",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CA3",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CA4",
+   "variantKey": "B0D=B0DAB&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCF&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DCL&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN7",
+   "variantKey": "B0D=B0DA3&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN7",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN7",
+   "variantKey": "B0D=B0DC5&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB5",
+   "variantKey": "B0D=B0DA3&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB5",
+   "variantKey": "B0D=B0DA4&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB5",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5B&B0F=B0F6S",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0D5D&B0F=B0F6S",
+   "fctId": "FCT0049"
+  }
+ ]
+}

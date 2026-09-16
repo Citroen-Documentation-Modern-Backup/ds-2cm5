@@ -1,0 +1,18 @@
+{
+ "ref": "040203440055A",
+ "refDisplay": "0402 03 440055A",
+ "title": "POMPE ASSISTANCE DIRECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0339"
+  }
+ ]
+}

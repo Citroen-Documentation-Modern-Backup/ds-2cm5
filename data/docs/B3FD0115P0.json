@@ -1,0 +1,20 @@
+{
+ "ref": "B3FD0115P0",
+ "refDisplay": "B3FD0115P0",
+ "title": "Contrôle : pompe à vide",
+ "nature": "Contrôles",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F00",
+   "fctId": "FCT0044"
+  }
+ ]
+}

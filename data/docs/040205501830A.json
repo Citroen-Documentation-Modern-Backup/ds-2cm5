@@ -1,0 +1,18 @@
+{
+ "ref": "040205501830A",
+ "refDisplay": "0402 05 501830A",
+ "title": "FAISCEAU PLANCHE DE BORD / CONSOLE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE DEPUIS OPR 09550",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0309"
+  }
+ ]
+}

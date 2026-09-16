@@ -1,0 +1,85 @@
+{
+ "ref": "B1HB1SP0",
+ "refDisplay": "B1HB1SP0",
+ "title": "Diagnostic  : système d’injection MAGNETI - MARELLI 1.AP",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "SYSTEME INJECTION MAGNETI MARELLI DEPUIS OPR 7085",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CM5",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0010"
+  }
+ ]
+}

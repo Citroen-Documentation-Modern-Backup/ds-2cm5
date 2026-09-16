@@ -1,0 +1,19 @@
+{
+ "ref": "2CM50170146",
+ "refDisplay": "2CM5 0 17 0146",
+ "title": "PRESSION D’HUILE",
+ "nature": "",
+ "applicability": "(J081) BERLINGO II VU FOURGON COURT ’800’ DIESEL TURBO DV6ATED4 BVM5 2 PORTES AR BATTANTES VITREES 1 VITRE DE CHAQUE COTE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3N",
+   "fctId": "FCT0008"
+  }
+ ]
+}

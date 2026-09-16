@@ -1,0 +1,25 @@
+{
+ "ref": "B3BG3FP0",
+ "refDisplay": "B3BG3FP0",
+ "title": "Dépose - repose : barre antidévers arrière et barres de torsion",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZU&B0F=B0F3Q",
+   "fctId": "FCT0031"
+  },
+  {
+   "ldp": "2CM5",
+   "variantKey": "B0D=B0DZV&B0F=B0F3Q",
+   "fctId": "FCT0031"
+  }
+ ]
+}
