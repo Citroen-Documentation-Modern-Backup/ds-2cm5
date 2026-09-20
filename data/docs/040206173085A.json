@@ -1,18 +1,1 @@
-{
- "ref": "040206173085A",
- "refDisplay": "0402 06 173085A",
- "title": "CANALISATION FIX FILTRE CARBURANT",
- "nature": "",
- "applicability": " DEPUIS DAM 12380FL",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CM5",
-   "variantKey": "B0D=B0DZV&B0F=B0F00",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"040206173085A","refDisplay":"0402 06 173085A","title":"CANALISATION FIX FILTRE CARBURANT","nature":"","applicability":" DEPUIS DAM 12380FL","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CM5","variantKey":"B0D=B0DZV&B0F=B0F00","fctId":"FCT0010"}],"kind":"pr","appl":"{(?2CM5)(B0F00)/($10,12380FL,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000587"},[]],["mpr",{"catal":"0402","grp":"40","grp2":"06","maj":"20111022","numfich":"173085A"},[["appl",{},["{(?2CM5)(B0F00)/($10,12380FL,,)/}"]],["sti",{"ident":"4001"},[]],["img",{"numfich":"00088503","path":"/img/pr/03/0008/00088503.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000587","ref":"00001574JF","refpg":"1574 JF"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"182, 374, 11","shape":"circle"},[]]]]]]]]]]}

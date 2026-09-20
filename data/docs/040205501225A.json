@@ -1,18 +1,1 @@
-{
- "ref": "040205501225A",
- "refDisplay": "0402 05 501225A",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": " DEPUIS OPR 09550",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CM5",
-   "variantKey": "B0D=B0DZW&B0F=B0FE4",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"040205501225A","refDisplay":"0402 05 501225A","title":"FAISCEAU MOTEUR","nature":"","applicability":" DEPUIS OPR 09550","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CM5","variantKey":"B0D=B0DZW&B0F=B0FE4","fctId":"FCT0308"}],"kind":"pr","appl":"{(?2CM5)(B0FE4)/($1,09550,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["mpr",{"catal":"0402","grp":"514","grp2":"05","maj":"20111022","numfich":"501225A"},[["appl",{},["{(?2CM5)(B0FE4)/($1,09550,,)/}"]],["sti",{"ident":"51401"},[]],["img",{"numfich":"00008392","path":"/img/pr/92/0000/00008392.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","ref":"00006558KL","refpg":"6558 KL"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)(DAZ10)}"]],["nlcfr",{},[["livre",{},["9647483680"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"165, 168, 11","shape":"circle"},[]]]]]]]]]]}

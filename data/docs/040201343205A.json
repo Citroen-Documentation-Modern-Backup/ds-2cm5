@@ -1,18 +1,1 @@
-{
- "ref": "040201343205A",
- "refDisplay": "0402 01 343205A",
- "title": "REDUCTEUR (VEHICULE ELECTRIQUE)",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CM5",
-   "variantKey": "B0D=B0DZV&B0F=B0F00",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"040201343205A","refDisplay":"0402 01 343205A","title":"REDUCTEUR (VEHICULE ELECTRIQUE)","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CM5","variantKey":"B0D=B0DZV&B0F=B0F00","fctId":"FCT0017"}],"kind":"pr","appl":"{(?2CM5)(B0F00)}","tree":["document",{},[["thesaurus",{"type":"10","code":"011425"},[]],["thesaurus",{"type":"10","code":"016204"},[]],["thesaurus",{"type":"10","code":"001356"},[]],["mpr",{"catal":"0402","grp":"690","grp2":"01","maj":"20111022","numfich":"343205A"},[["appl",{},["{(?2CM5)(B0F00)}"]],["sti",{"ident":"69001"},[]],["img",{"numfich":"00088506","path":"/img/pr/06/0008/00088506.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"011425","ps":"1","ref":"00002204E1","refpg":"2204 E1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"339, 184, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016204","ref":"00001803T8","refpg":"1803 T8"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"250, 500, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001356","ref":"1606235680","refpg":"16 062 356 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CM5)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"417, 340, 11","shape":"circle"},[]],["area",{"coords":"179, 194, 11","shape":"circle"},[]]]]]]]]]]}

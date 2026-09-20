@@ -1,18 +1,1 @@
-{
- "ref": "040205501176A",
- "refDisplay": "0402 05 501176A",
- "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CM5",
-   "variantKey": "B0D=B0DZV&B0F=B0F00",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"040205501176A","refDisplay":"0402 05 501176A","title":"FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CM5","variantKey":"B0D=B0DZV&B0F=B0F00","fctId":"FCT0308"}],"kind":"pr","appl":"{(?2CM5)(B0F00)}","tree":["document",{},[["thesaurus",{"type":"10","code":"012562"},[]],["thesaurus",{"type":"10","code":"012186"},[]],["thesaurus",{"type":"10","code":"003729"},[]],["thesaurus",{"type":"10","code":"016233"},[]],["thesaurus",{"type":"10","code":"016277"},[]],["thesaurus",{"type":"10","code":"007622"},[]],["mpr",{"catal":"0402","grp":"513","grp2":"05","maj":"20111022","numfich":"501176A"},[["appl",{},["{(?2CM5)(B0F00)}"]],["sti",{"ident":"51301"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"012562","ref":"9675890680","refpg":"96 758 906 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"012562","ref":"00006600AL","refpg":"6600 AL"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"012186","ref":"00006600AG","refpg":"6600 AG"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003729","ref":"00006600GJ","refpg":"6600 GJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"016233","ref":"00006600AQ","refpg":"6600 AQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"016233","ref":"00006600AS","refpg":"6600 AS"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"016233","ref":"00006600AR","refpg":"6600 AR"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"016233","ref":"00006600AT","refpg":"6600 AT"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"016277","ref":"00006490VA","refpg":"6490 VA"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"007622","ref":"00006490TS","refpg":"6490 TS"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]],["descomp",{},[["lib",{"langue":"01"},["3,5X13"]]]]]]]]]]]]}

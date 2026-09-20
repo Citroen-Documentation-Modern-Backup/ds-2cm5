@@ -1,18 +1,1 @@
-{
- "ref": "040202534010A",
- "refDisplay": "0402 02 534010A",
- "title": "TRAVERSE SUPPORT BOITIER",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CM5",
-   "variantKey": "B0D=B0DZW&B0F=B0FE4",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"040202534010A","refDisplay":"0402 02 534010A","title":"TRAVERSE SUPPORT BOITIER","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CM5","variantKey":"B0D=B0DZW&B0F=B0FE4","fctId":"FCT0010"}],"kind":"pr","appl":"{(?2CM5)(B0FE4)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009104"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["mpr",{"catal":"0402","grp":"494","grp2":"02","maj":"20111022","numfich":"534010A"},[["appl",{},["{(?2CM5)(B0FE4)}"]],["sti",{"ident":"49401"},[]],["img",{"numfich":"00008193","path":"/img/pr/93/0000/00008193.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009104","ref":"00001929VA","refpg":"1929 VA"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CM5)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"270, 303, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008006","ref":"0000692378","refpg":"6923 78"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CM5)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"42, 6, 11","shape":"circle"},[]],["area",{"coords":"421, 168, 11","shape":"circle"},[]]]]]]]]]]}
